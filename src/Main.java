@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         int check = 100; //рублей
-        int sum = 1100; //рублей
+        int sum = 100; //рублей
         int bonus;
         if (sum > 1000) {
             bonus = sum / 100;
